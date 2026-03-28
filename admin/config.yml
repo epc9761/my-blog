@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: pearluna/my-blog
+  repo: epc9761/my-blog
 
 media_folder: "images"
 public_folder: "/images"
